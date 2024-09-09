@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/othmoutaouakkil/">
+  <a href="https://www.linkedin.com/in/othmoutaouakkil/">
     <img src="#" alt="LinedIn badge" />
   </a>
-  <a href="https://othmanemoutaouakkil.com/newsletter">
+  <a href="https://github.com/moutaouakkil">
     <img src="#" alt="GitHub badge" />
   </a>
 </p>
