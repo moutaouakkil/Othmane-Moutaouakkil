@@ -1,6 +1,6 @@
 # Othmane-Moutaouakkil
 
-![Othmane Moutaouakkil](https://media.licdn.com/dms/image/D4D03AQE5wG8euFNY5w/profile-displayphoto-shrink_200_200/0/1681135998376?e=1724889600&v=beta&t=ZdK8Mp5MXpixa9wXWFbXS3N0RLHyTkSKKjL3dBRJ_MI)
+![Othmane Moutaouakkil](https://otmnmt.com/)
 
 <h2 align="center">Hi, there 👋</h2>
 
